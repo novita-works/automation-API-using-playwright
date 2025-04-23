@@ -1,2 +1,2 @@
-# automation-API-using-Catalan
-Automation API testing di Katalon Studio untuk endpoint yang ada di https://reqres.in
+# automation-API-using-playwright
+Automation API testing untuk endpoint yang ada di https://reqres.in
